@@ -15,7 +15,8 @@ In UserRepository, declare the following methods that help to find all user and 
 - `data.sql` contains insert statements for dummy users. Find where this file is and explain what it is used for? 
 
 ```
-Your answer
+Initial Data Loading: Contains SQL INSERT statements to populate your database with dummy/sample data when the application starts
+Development & Testing: Provides consistent test data for development and testing purposes
 ```
 
 ## User Reservice - Complete the code
